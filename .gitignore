@@ -4,3 +4,9 @@ node_modules/
 # Parcel
 /.cache/
 /dist/
+
+# TypeScript
+/.ts-cache/
+
+# VSCode
+/.vscode/
